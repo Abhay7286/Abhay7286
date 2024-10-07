@@ -1,7 +1,7 @@
 ### <div align="center">I'm Abhay, a full-time full-stack freelance developer</div>  
   
 
-- I'm a Full Stack Alchemist and like learn new technologies✒️  
+- I'm a Full Stack Alchemist and like to learn new technologies✒️  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
