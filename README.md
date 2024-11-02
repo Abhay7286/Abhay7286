@@ -1,79 +1,57 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Abhay7286/your-repo-name/raw/main/assets/dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Abhay7286/your-repo-name/raw/main/assets/light_mode.svg">
-    <img alt="Abhay Mishra" src="https://github.com/Abhay7286/your-repo-name/raw/main/assets/light_mode.svg">
-  </picture>
-</p>
-
-<h1 align="center">Hey, I'm Abhay Mishra 👋</h1>
-<h3 align="center">MERN Stack Dev | Open Source Contributor | Lifelong Learner</h3>
+<h1 align="center">Hi there, I'm Abhay Mishra 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhay~mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:abhaymishra7286@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/abhay~mishra">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Abhay7286">
-    <img src="https://img.shields.io/github/followers/Abhay7286?style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Abhay7286?style=social" alt="GitHub Followers">
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+<h3 align="center">I'm a MERN Stack Developer, Open Source Enthusiast, and Lifelong Learner 🚀</h3>
 
-- 💻 Full-stack developer specializing in **JavaScript** and **React**.
-- 🌱 Currently leveling up in **backend optimizations** and **system architecture**.
-- 👯 Looking to collaborate on **open-source projects** and **developer communities**.
-- 📧 Reach me: **abhaymishra7286@gmail.com**
-
----
-
-### 🚀 Tech Stack
-
-| **Frontend**         | **Backend**         | **Database**        | **Tools**                    |
-|----------------------|---------------------|---------------------|------------------------------|
-| React, Redux, HTML5, CSS3, Tailwind | Node.js, Express.js | MongoDB, PostgreSQL           | Git, VSCode, Postman, Figma |
+- 💼 Full-stack developer specializing in **JavaScript** and **React**
+- 🌱 Currently exploring **backend optimizations** and **system architecture**
+- 👯 Open to collaborating on **open-source projects** and **developer communities**
+- 📫 Reach me at: **abhaymishra7286@gmail.com**
 
 ---
 
-### 💼 Projects
+### 🛠️ Tech Stack
 
-<div align="center">
-  
-#### [TuxChat](https://github.com/Abhay7286/TuxChat)
-<img src="https://img.shields.io/badge/Chat%20App-blue?style=flat-square" alt="Chat App Badge" />  
-A sleek, real-time chat app with custom UI features including a glass-effect scrollbar and user/contact message differentiation.
-
-#### [Spotify Clone](https://github.com/Abhay7286/spotify-clone)
-<img src="https://img.shields.io/badge/Spotify%20Clone-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Badge" />  
-An aesthetic Spotify frontend clone, designed to be fully responsive and interactive.
-
-#### [E-commerce Book Store](https://github.com/Abhay7286/Online-Bookstore)
-<img src="https://img.shields.io/badge/Online%20Bookstore-FF3E00?style=flat-square" alt="Bookstore Badge" />  
-An online bookstore built with MERN stack, complete with user authentication, catalog, and order processing.
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay7286&show_icons=true&theme=radical" alt="Abhay's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay7286&theme=radical" alt="Abhay's GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay7286&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay7286&theme=react&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay7286&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay7286&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="150px"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/abhay~mishra"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" /></a>
