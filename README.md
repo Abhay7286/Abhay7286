@@ -1,9 +1,10 @@
-<a href="https://github.com/Abhay7286">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="path/to/dark_mode.svg">
-    <img alt="Abhay Mishra's GitHub Profile README" src="path/to/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Abhay7286/your-repo-name/raw/main/assets/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Abhay7286/your-repo-name/raw/main/assets/light_mode.svg">
+    <img alt="Abhay Mishra" src="https://github.com/Abhay7286/your-repo-name/raw/main/assets/light_mode.svg">
   </picture>
-</a>
+</p>
 
 <h1 align="center">Hey, I'm Abhay Mishra 👋</h1>
 <h3 align="center">MERN Stack Dev | Open Source Contributor | Lifelong Learner</h3>
